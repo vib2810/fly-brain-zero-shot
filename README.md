@@ -62,6 +62,9 @@ Poles reached per 10 s (mean over flies; every dot is one fly; seeds 162000–16
 - **Robust to the injury.** After the cut, flies with their real wiring reach as many poles as intact flies.
 - **The wiring matters.** Scrambled brains get the same eye input, but DNa02 falls from ~30 Hz to about 2 Hz or less.
   The signal from the eyes no longer reaches the turn neurons. This holds for every gain we tried (k = 1 to 8).
+- **Reproduced from a fresh clone** of this repo, following the steps below (one more independent run, n=16):
+  intact 2.81 poles vs 0.19 unplugged; after the cut 2.94–3.12 with real wiring vs 0.12 scrambled and 0.25
+  unplugged. The gain grid picked k = 2 again.
 - **Per-fly data** is in [`assets/results_per_fly.csv`](assets/results_per_fly.csv).
 
 ## What is and isn't the brain
@@ -84,12 +87,14 @@ Honest accounting, because it matters here:
 
 ## Run it yourself
 
-**Needs:** Linux, an NVIDIA GPU (developed on an RTX 3070 Laptop, 8 GB), Python 3.12.
+**Needs:** Linux, an NVIDIA GPU (developed on an RTX 3070 Laptop, 8 GB), Python 3.12. On a machine without a
+display, `export MUJOCO_GL=egl` before rendering the video. The first run compiles GPU kernels, which adds a few
+minutes once.
 
 ```bash
 git clone https://github.com/vib2810/fly-brain-zero-shot && cd fly-brain-zero-shot
 uv venv --python 3.12 .venv && source .venv/bin/activate
-uv pip install torch --index-url https://download.pytorch.org/whl/cu128   # pick the build for your CUDA driver
+uv pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128   # same index for both; match your CUDA driver
 uv pip install -e .
 ./scripts/download_data.sh   # Shiu connectivity, FlyWire annotations, FlyVis weights (pinned, checksummed)
 ```
