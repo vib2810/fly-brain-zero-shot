@@ -1,0 +1,257 @@
+window,condition,run,fly,poles
+"intact, 0-10 s",real wiring,eval,0,4
+"intact, 0-10 s",real wiring,eval,1,3
+"intact, 0-10 s",real wiring,eval,2,2
+"intact, 0-10 s",real wiring,eval,3,3
+"intact, 0-10 s",real wiring,eval,4,3
+"intact, 0-10 s",real wiring,eval,5,4
+"intact, 0-10 s",real wiring,eval,6,3
+"intact, 0-10 s",real wiring,eval,7,3
+"intact, 0-10 s",real wiring,eval,8,3
+"intact, 0-10 s",real wiring,eval,9,3
+"intact, 0-10 s",real wiring,eval,10,4
+"intact, 0-10 s",real wiring,eval,11,1
+"intact, 0-10 s",real wiring,eval,12,4
+"intact, 0-10 s",real wiring,eval,13,5
+"intact, 0-10 s",real wiring,eval,14,4
+"intact, 0-10 s",real wiring,eval,15,4
+"intact, 0-10 s",turn neurons unplugged,eval,0,0
+"intact, 0-10 s",turn neurons unplugged,eval,1,0
+"intact, 0-10 s",turn neurons unplugged,eval,2,0
+"intact, 0-10 s",turn neurons unplugged,eval,3,0
+"intact, 0-10 s",turn neurons unplugged,eval,4,0
+"intact, 0-10 s",turn neurons unplugged,eval,5,0
+"intact, 0-10 s",turn neurons unplugged,eval,6,0
+"intact, 0-10 s",turn neurons unplugged,eval,7,0
+"intact, 0-10 s",turn neurons unplugged,eval,8,0
+"intact, 0-10 s",turn neurons unplugged,eval,9,0
+"intact, 0-10 s",turn neurons unplugged,eval,10,0
+"intact, 0-10 s",turn neurons unplugged,eval,11,0
+"intact, 0-10 s",turn neurons unplugged,eval,12,0
+"intact, 0-10 s",turn neurons unplugged,eval,13,0
+"intact, 0-10 s",turn neurons unplugged,eval,14,0
+"intact, 0-10 s",turn neurons unplugged,eval,15,2
+"2 legs cut, 5-15 s",real wiring,eval,0,1
+"2 legs cut, 5-15 s",real wiring,eval,1,5
+"2 legs cut, 5-15 s",real wiring,eval,2,3
+"2 legs cut, 5-15 s",real wiring,eval,3,4
+"2 legs cut, 5-15 s",real wiring,eval,4,3
+"2 legs cut, 5-15 s",real wiring,eval,5,5
+"2 legs cut, 5-15 s",real wiring,eval,6,5
+"2 legs cut, 5-15 s",real wiring,eval,7,5
+"2 legs cut, 5-15 s",real wiring,eval,8,3
+"2 legs cut, 5-15 s",real wiring,eval,9,2
+"2 legs cut, 5-15 s",real wiring,eval,10,4
+"2 legs cut, 5-15 s",real wiring,eval,11,1
+"2 legs cut, 5-15 s",real wiring,eval,12,4
+"2 legs cut, 5-15 s",real wiring,eval,13,5
+"2 legs cut, 5-15 s",real wiring,eval,14,2
+"2 legs cut, 5-15 s",real wiring,eval,15,5
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,0,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,1,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,2,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,3,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,4,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,5,2
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,6,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,7,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,8,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,9,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,10,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,11,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,12,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,13,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,14,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval,15,1
+"intact, 0-10 s",real wiring,eval_rerun2,0,3
+"intact, 0-10 s",real wiring,eval_rerun2,1,3
+"intact, 0-10 s",real wiring,eval_rerun2,2,4
+"intact, 0-10 s",real wiring,eval_rerun2,3,4
+"intact, 0-10 s",real wiring,eval_rerun2,4,1
+"intact, 0-10 s",real wiring,eval_rerun2,5,3
+"intact, 0-10 s",real wiring,eval_rerun2,6,3
+"intact, 0-10 s",real wiring,eval_rerun2,7,3
+"intact, 0-10 s",real wiring,eval_rerun2,8,3
+"intact, 0-10 s",real wiring,eval_rerun2,9,4
+"intact, 0-10 s",real wiring,eval_rerun2,10,4
+"intact, 0-10 s",real wiring,eval_rerun2,11,2
+"intact, 0-10 s",real wiring,eval_rerun2,12,3
+"intact, 0-10 s",real wiring,eval_rerun2,13,3
+"intact, 0-10 s",real wiring,eval_rerun2,14,0
+"intact, 0-10 s",real wiring,eval_rerun2,15,3
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,0,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,1,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,2,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,3,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,4,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,5,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,6,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,7,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,8,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,9,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,10,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,11,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,12,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,13,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,14,0
+"intact, 0-10 s",turn neurons unplugged,eval_rerun2,15,3
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,0,0
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,1,5
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,2,5
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,3,0
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,4,3
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,5,4
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,6,5
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,7,1
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,8,5
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,9,3
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,10,5
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,11,3
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,12,2
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,13,2
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,14,0
+"2 legs cut, 5-15 s",real wiring,eval_rerun2,15,4
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,0,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,1,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,2,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,3,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,4,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,5,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,6,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,7,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,8,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,9,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,10,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,11,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,12,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,13,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,14,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_rerun2,15,3
+"intact, 0-10 s",real wiring,eval_video,0,3
+"intact, 0-10 s",real wiring,eval_video,1,1
+"intact, 0-10 s",real wiring,eval_video,2,0
+"intact, 0-10 s",real wiring,eval_video,3,3
+"intact, 0-10 s",real wiring,eval_video,4,4
+"intact, 0-10 s",real wiring,eval_video,5,4
+"intact, 0-10 s",real wiring,eval_video,6,3
+"intact, 0-10 s",real wiring,eval_video,7,3
+"intact, 0-10 s",real wiring,eval_video,8,4
+"intact, 0-10 s",real wiring,eval_video,9,3
+"intact, 0-10 s",real wiring,eval_video,10,1
+"intact, 0-10 s",real wiring,eval_video,11,4
+"intact, 0-10 s",real wiring,eval_video,12,4
+"intact, 0-10 s",real wiring,eval_video,13,1
+"intact, 0-10 s",real wiring,eval_video,14,3
+"intact, 0-10 s",real wiring,eval_video,15,2
+"intact, 0-10 s",turn neurons unplugged,eval_video,0,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,1,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,2,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,3,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,4,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,5,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,6,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,7,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,8,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,9,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,10,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,11,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,12,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,13,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,14,0
+"intact, 0-10 s",turn neurons unplugged,eval_video,15,1
+"2 legs cut, 5-15 s",real wiring,eval_video,0,4
+"2 legs cut, 5-15 s",real wiring,eval_video,1,0
+"2 legs cut, 5-15 s",real wiring,eval_video,2,4
+"2 legs cut, 5-15 s",real wiring,eval_video,3,5
+"2 legs cut, 5-15 s",real wiring,eval_video,4,1
+"2 legs cut, 5-15 s",real wiring,eval_video,5,4
+"2 legs cut, 5-15 s",real wiring,eval_video,6,4
+"2 legs cut, 5-15 s",real wiring,eval_video,7,4
+"2 legs cut, 5-15 s",real wiring,eval_video,8,4
+"2 legs cut, 5-15 s",real wiring,eval_video,9,5
+"2 legs cut, 5-15 s",real wiring,eval_video,10,5
+"2 legs cut, 5-15 s",real wiring,eval_video,11,1
+"2 legs cut, 5-15 s",real wiring,eval_video,12,2
+"2 legs cut, 5-15 s",real wiring,eval_video,13,5
+"2 legs cut, 5-15 s",real wiring,eval_video,14,2
+"2 legs cut, 5-15 s",real wiring,eval_video,15,5
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,0,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,1,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,2,2
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,3,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,4,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,5,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,6,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,7,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,8,2
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,9,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,10,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,11,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,12,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,13,0
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,14,1
+"2 legs cut, 5-15 s",turn neurons unplugged,eval_video,15,1
+"intact, 0-10 s",wiring scrambled,shuffle0,0,0
+"intact, 0-10 s",wiring scrambled,shuffle0,1,0
+"intact, 0-10 s",wiring scrambled,shuffle0,2,0
+"intact, 0-10 s",wiring scrambled,shuffle0,3,1
+"intact, 0-10 s",wiring scrambled,shuffle0,4,0
+"intact, 0-10 s",wiring scrambled,shuffle0,5,1
+"intact, 0-10 s",wiring scrambled,shuffle0,6,2
+"intact, 0-10 s",wiring scrambled,shuffle0,7,0
+"intact, 0-10 s",wiring scrambled,shuffle0,8,0
+"intact, 0-10 s",wiring scrambled,shuffle0,9,0
+"intact, 0-10 s",wiring scrambled,shuffle0,10,0
+"intact, 0-10 s",wiring scrambled,shuffle0,11,0
+"intact, 0-10 s",wiring scrambled,shuffle0,12,0
+"intact, 0-10 s",wiring scrambled,shuffle0,13,1
+"intact, 0-10 s",wiring scrambled,shuffle0,14,0
+"intact, 0-10 s",wiring scrambled,shuffle0,15,0
+"intact, 0-10 s",wiring scrambled,shuffle1,0,0
+"intact, 0-10 s",wiring scrambled,shuffle1,1,0
+"intact, 0-10 s",wiring scrambled,shuffle1,2,0
+"intact, 0-10 s",wiring scrambled,shuffle1,3,0
+"intact, 0-10 s",wiring scrambled,shuffle1,4,1
+"intact, 0-10 s",wiring scrambled,shuffle1,5,0
+"intact, 0-10 s",wiring scrambled,shuffle1,6,0
+"intact, 0-10 s",wiring scrambled,shuffle1,7,2
+"intact, 0-10 s",wiring scrambled,shuffle1,8,0
+"intact, 0-10 s",wiring scrambled,shuffle1,9,0
+"intact, 0-10 s",wiring scrambled,shuffle1,10,1
+"intact, 0-10 s",wiring scrambled,shuffle1,11,0
+"intact, 0-10 s",wiring scrambled,shuffle1,12,0
+"intact, 0-10 s",wiring scrambled,shuffle1,13,0
+"intact, 0-10 s",wiring scrambled,shuffle1,14,0
+"intact, 0-10 s",wiring scrambled,shuffle1,15,2
+"2 legs cut, 5-15 s",real wiring,eval_scramble,0,4
+"2 legs cut, 5-15 s",real wiring,eval_scramble,1,5
+"2 legs cut, 5-15 s",real wiring,eval_scramble,2,0
+"2 legs cut, 5-15 s",real wiring,eval_scramble,3,1
+"2 legs cut, 5-15 s",real wiring,eval_scramble,4,2
+"2 legs cut, 5-15 s",real wiring,eval_scramble,5,0
+"2 legs cut, 5-15 s",real wiring,eval_scramble,6,4
+"2 legs cut, 5-15 s",real wiring,eval_scramble,7,3
+"2 legs cut, 5-15 s",real wiring,eval_scramble,8,1
+"2 legs cut, 5-15 s",real wiring,eval_scramble,9,5
+"2 legs cut, 5-15 s",real wiring,eval_scramble,10,5
+"2 legs cut, 5-15 s",real wiring,eval_scramble,11,0
+"2 legs cut, 5-15 s",real wiring,eval_scramble,12,1
+"2 legs cut, 5-15 s",real wiring,eval_scramble,13,2
+"2 legs cut, 5-15 s",real wiring,eval_scramble,14,4
+"2 legs cut, 5-15 s",real wiring,eval_scramble,15,5
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,0,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,1,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,2,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,3,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,4,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,5,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,6,2
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,7,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,8,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,9,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,10,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,11,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,12,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,13,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,14,0
+"2 legs cut, 5-15 s",wiring scrambled,eval_scramble,15,0

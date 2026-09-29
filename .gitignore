@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.egg-info/
+runs
+data/shiu
+data/flywire
+data/flyvis

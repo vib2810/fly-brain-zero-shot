@@ -1,0 +1,27 @@
+[project]
+name = "flyloop"
+version = "0.1.0"
+description = "Closed loop: FlyVis eyes -> FlyWire whole-brain spiking model -> NeuroMechFly body, with a mid-walk leg cut"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.12"
+dependencies = [
+    "flygym[warp]==2.1.0",
+    "flyvis==1.2.0",
+    "torch>=2.4",
+    "numpy",
+    "pandas",
+    "pyarrow",
+    "scipy",
+    "pillow",
+    "imageio",
+    "imageio-ffmpeg",
+    "matplotlib",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
